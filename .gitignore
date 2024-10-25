@@ -1,4 +1,4 @@
   /target
 .vscode
-.errorviz-version
+.errorviz-version'''
 src/proto/lq.rs
